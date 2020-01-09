@@ -1,9 +1,7 @@
 # WordPress Sermon Browser plugin update
-Updated code with api.esv.org V3 API call for WordPress Sermon Browser since this plugin is no longer supported by the owner.
+If you use the [WordPress Sermon Browser plugin](https://wordpress.org/plugins/sermon-browser/) that is no longer supported by the owner, this provides all the updated code in the frontend.php to allow for api.esv.org API v3 to work.
 
-This is an updated frontend.php file to allow for esv.org API v3 to work with the Sermon Browser plugin in Wordpress here:  https://wordpress.org/plugins/sermon-browser/
-
-Example output of Bible verses being retrieved through the API and rendered on the page via a sortcode in WordPress: https://www.cantonbiblechurch.org/sermons/no-rest-for-the-weary-under-the-sun/
+[Example output](https://www.cantonbiblechurch.org/sermons/no-rest-for-the-weary-under-the-sun/) of Bible verses being retrieved through the API and rendered on the page via a sortcode in WordPress: 
 
 Please use the following steps to set this up as within your church website:
 
