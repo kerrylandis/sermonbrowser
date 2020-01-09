@@ -1,5 +1,5 @@
 # sermonbrowser
-Updated code with esv.org API call for WordPress Sermon Browser
+Updated code with esv.org V3 API call for WordPress Sermon Browser since this plugin is no longer supported by the owner.
 
 This is an updated frontend.php file to allow for esv.org API v3 to work with the Sermon Browser plugin in Wordpress here:  https://wordpress.org/plugins/sermon-browser/
 
